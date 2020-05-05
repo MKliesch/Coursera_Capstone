@@ -1,0 +1,35 @@
+,District,Neighborhood,Rent_score,Rest_score,Friend_score,Overall_score
+33,Kreis 9,Albisrieden,1.0,0.68,0.83,0.84
+18,Kreis 12,Hirzenbach,0.55,0.95,1.0,0.83
+21,Kreis 5,Escher Wyss,0.64,0.68,0.91,0.74
+31,Kreis 4,Hard,0.91,0.58,0.61,0.7
+28,Kreis 11,Seebach,0.82,0.37,0.87,0.69
+13,Kreis 7,Fluntern,0.27,0.84,0.83,0.65
+24,Kreis 3,Alt-Wiedikon,0.73,0.58,0.65,0.65
+26,Kreis 11,Affoltern,0.82,0.89,0.22,0.64
+7,Kreis 8,Weinegg,0.18,0.79,0.91,0.63
+8,Kreis 8,Muehlebach,0.18,0.84,0.87,0.63
+27,Kreis 11,Oerlikon,0.82,0.42,0.61,0.62
+11,Kreis 7,Hirslanden,0.27,0.68,0.87,0.61
+23,Kreis 3,Friesenberg,0.73,0.89,0.09,0.57
+12,Kreis 7,Hottingen,0.27,0.58,0.87,0.57
+14,Kreis 10,Wipkingen,0.36,0.53,0.78,0.56
+29,Kreis 4,Werd,0.91,0.21,0.57,0.56
+10,Kreis 7,Witikon,0.27,0.74,0.61,0.54
+5,Kreis 2,Leimbach,0.09,0.63,0.87,0.53
+20,Kreis 12,Saatlen,0.55,0.74,0.3,0.53
+30,Kreis 4,Langstrasse,0.91,0.16,0.48,0.52
+25,Kreis 3,Sihlfeld,0.73,0.32,0.52,0.52
+3,Kreis 1,City,0.0,0.58,0.96,0.51
+19,Kreis 12,Schwamendingen-Mitte,0.55,0.63,0.35,0.51
+32,Kreis 9,Altstetten,1.0,0.05,0.39,0.48
+16,Kreis 6,Unterstrass,0.45,0.42,0.57,0.48
+17,Kreis 6,Oberstrass,0.45,0.68,0.13,0.42
+4,Kreis 2,Wollishofen,0.09,0.47,0.7,0.42
+15,Kreis 10,Hoengg,0.36,0.47,0.35,0.39
+9,Kreis 8,Seefeld,0.18,0.95,0.04,0.39
+6,Kreis 2,Enge,0.09,0.26,0.74,0.36
+1,Kreis 1,Hochschulen,0.0,1.0,0.0,0.33
+22,Kreis 5,Gewerbeschule,0.64,0.0,0.26,0.3
+2,Kreis 1,Lindenhof,0.0,0.74,0.17,0.3
+0,Kreis 1,Rathaus,0.0,0.11,0.43,0.18
